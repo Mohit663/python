@@ -1,0 +1,18 @@
+#boolean operator
+x = 3>2 #greater than operator
+print(x)#return true or false
+
+x=3<2 #smaller than operator
+print(x)
+
+x= 3==2 #relational operator(equal to)
+print(x)
+
+x= 3!=2 #relational operator(not equal to)
+print(x)
+
+x= 3>=2 #relational operator(greater than or equal to)
+print(x)
+
+x= 3<=2 #relational operator(smaller than or equal to)
+print(x)
